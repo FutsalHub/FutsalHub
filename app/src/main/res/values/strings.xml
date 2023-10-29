@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FutsalHub</string>
+
+    <string name="home_text">Home</string>
+    <string name="bookinghistory_text">Booking History</string>
+    <string name="profile_text">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile">Profile</string>
+    <string name="booking_history">Booking History</string>
+    <string name="home">Home</string>
+</resources>
